@@ -1,0 +1,6 @@
+[
+    {
+        "query": "\n                Analyze the provided CSV file and generate a detailed description of each row by extracting and summarizing its features in a continuous sentence. For each row:\n\n                1. Identify and list the column names and their corresponding values.\n                2. Present the features in the row in a seamless sentence structure, describing the relationship or context between them.\n                3. Provide a summary statement based on the data, capturing notable insights, patterns, or potential interpretations.\n                ",
+        "response": "Row 95 describes the drug ASTELIN/ASTEPRO (RXCUI 18603), indicated for allergic rhinitis, sinusitis, and seasonal allergies, with corresponding MONDO and UMLS codes provided.  Row 97 details ETHIODIZED OIL (RXCUI 4125) with no listed indications. Row 99 shows BUPIVACAINE (with various brand names; RXCUI 1815) lacking specified indications.  Rows 96 (CHOLECALCIFEROL, RXCUI 2418) and 98 (PANCREATIN, RXCUI 7880) similarly present drug names and RXCUIs but lack indication information.  In summary, the data shows incomplete information for several drugs, with only row 95 providing detailed indications for a specific medication."
+    }
+]
