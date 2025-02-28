@@ -1,0 +1,6 @@
+[
+    {
+        "query": "\n                Analyze the provided CSV file and generate a detailed description of each row by extracting and summarizing its features in a continuous sentence. For each row:\n\n                1. Identify and list the column names and their corresponding values.\n                2. Present the features in the row in a seamless sentence structure, describing the relationship or context between them.\n                3. Provide a summary statement based on the data, capturing notable insights, patterns, or potential interpretations.\n                ",
+        "response": "I cannot answer this question. The provided data is in a textual format, not a CSV file.  To analyze a CSV file and generate the requested descriptions, I need the data in a proper CSV format."
+    }
+]
