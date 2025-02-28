@@ -1,0 +1,23 @@
+[
+    {
+        "query": "\nSummarize the main idea and key results of each paper using the provided excerpts and metadata. Include:\n1. **Title** (from metadata)\n2. **Abstract** (if available)\n3. **Main idea and hypothesis**: It should clearly states the hypothesis which the paper is written based on it accordingly.\n4. **Summary of Results**: Key findings, conclusions, or implications.\nProvide clear and concise summaries for each paper.\n",
+        "response": "I cannot summarize the main idea and key results of each paper because the provided text is a long, continuous excerpt from a single document, not separate papers.  There are no individual abstracts or titles for distinct research articles.  The provided metadata only gives publication information for cited works, not the current document itself.",
+        "sources": [
+            "http://arxiv.org/abs/2402.09588v2",
+            "http://arxiv.org/abs/1805.08169v1",
+            "http://arxiv.org/abs/1805.08169v1",
+            "http://arxiv.org/abs/2012.05716v2",
+            "http://arxiv.org/abs/2411.15692v1",
+            "http://arxiv.org/abs/1805.08169v1",
+            "http://arxiv.org/abs/2012.05716v2",
+            "http://arxiv.org/abs/1805.08169v1",
+            "http://arxiv.org/abs/2106.02894v3",
+            "http://arxiv.org/abs/2411.15692v1",
+            "http://arxiv.org/abs/2402.09588v2",
+            "http://arxiv.org/abs/2012.05716v2",
+            "http://arxiv.org/abs/1805.08169v1",
+            "http://arxiv.org/abs/1805.08169v1",
+            "http://arxiv.org/abs/2012.05716v2"
+        ]
+    }
+]
